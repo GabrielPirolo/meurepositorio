@@ -1,0 +1,18 @@
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+.danone {
+    color: rgb(228, 104, 104);
+    font-size: 50px;
+}
+
+body {
+    background-color: rgb(186, 238, 238);
+}
+
+.imagem {
+    size-adjust: 140px;
+}
