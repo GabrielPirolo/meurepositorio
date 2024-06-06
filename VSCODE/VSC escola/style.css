@@ -39,6 +39,7 @@ header {
     position: absolute;
     top: 80px;
     left: 13px;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 50% 75vh, 0% 100%);
 }
 
 .lista {
@@ -51,7 +52,8 @@ header {
     width: 850px;
     height: 381px;
     left: 292px;
-    top: 219px
+    top: 219px;
+    padding: 20px;
 }
 
 .colegio {
@@ -83,24 +85,16 @@ header {
     font-weight: 400px;
 }
 
-.quadradao {
-    width: 635px;
-    height: 635px;
-    top: 194px;
-    left: 110px;
-    gap: 0px;
-    background: #000000;
-}
-
 .text2 {
     width: 635px;
     height: 635px;
     top: 194px;
-    left: 785px;
+    left: 134px;
     gap: 30px;
     opacity: 0px;
     text-align: justify;
     font-family: "Poppins", sans-serif;
-    font-size: 38px;
+    font-size: 34px;
     margin-left: 860px;
+    padding: 280px;
 }
